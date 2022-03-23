@@ -32,6 +32,17 @@ We will be using both GPU and multi-core CPU platforms for our project. We would
 
 ### Schedule
 
+**Week** | **Goal**
+--- | --- |
+3/27 - 4/2 | Implement Serial A* and Parallel A* as in [1]
+4/3 - 4/9 | Design CUDA version of Parallel A*
+**4/11** | **Intermediate Checkpoint (Complete Milestone Report)**
+4/10 - 4/16 | Design OpenMP version of Parallel A*
+4/17 - 4/23 | Investigate and Perform any additional optimizations
+4/24 - 4/29 | Tabulate results and write up Final Report
+**4/24 - 4/29** | **Final Report Due**
+5/1 - 5/5 | Prepare for Poster Session
+**5/5** | **Poster Session**
 
 ### References
 
